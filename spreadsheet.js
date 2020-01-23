@@ -1,8 +1,6 @@
 const GoogleSpreadsheet = require ('google-spreadsheet');
 const { promisify } = require('util');
-
 const creds = require('./client.json');
-
 function printAnswer (response) {
     console.log(`${response.answer}`)
 }
@@ -20,5 +18,4 @@ async function accessSpreadsheet(row, id) {
         printAnswer(row);
     })
 }
-
-accessSpreadsheet("Shipping_Costs", '1UKn3Nb-yz9CYkbwc3nqZFwd592I19bDjqR-r-PiVtpc');
+accessSpreadsheet("Shipping_Costs", '14yYJ7AxzXhSviLwbMZkpqfqkFuTrhW3XxEbe7NJssKg');

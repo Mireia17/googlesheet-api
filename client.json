@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "mireias-project",
-  "private_key_id": "6e49ebe41054af44e71d8d3e9aa30be407056470",
-  "private_key": "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
-  "client_email": "mireia@mireias-project.iam.gserviceaccount.com",
-  "client_id": "104369291830279412329",
+  "project_id": "mireia-reply",
+  "private_key_id": "67e6eef2c86ed5021dcde5cfac208f53b1eba058",
+  "private_key": ,
+  "client_email": "mireia@mireia-reply.iam.gserviceaccount.com",
+  "client_id": "100762902320407848447",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mireia%40mireias-project.iam.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mireia%40mireia-reply.iam.gserviceaccount.com"
 }
